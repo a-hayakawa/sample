@@ -1,3 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start" x="0" y="0"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="LW2x9o4~YRS~Rx_)`CX(" x="0" y="0"><statement name="HANDLER"><block type="turtleForward" id="^b/;+$m9c7I^`QMK6BxF"><value name="distance"><shadow type="math_number" id="S/KRFRyVH/H(VpZooEqR"><field name="NUM">50</field></shadow></value></block></statement></block></xml>
