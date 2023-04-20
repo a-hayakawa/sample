@@ -1,0 +1,8 @@
+makecode:
+  target: turtle
+  platform: turtle
+  home_url: https://sdk40010.github.io/pxt-sample/
+theme: jekyll-theme-slate
+include:
+  - assets
+  - README.md
